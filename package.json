@@ -1,0 +1,19 @@
+{
+  "name": "searchbar",
+  "version": "1.0.0",
+  "description": "search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elastic",
+    "search",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.3"
+  }
+}
